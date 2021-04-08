@@ -138,20 +138,9 @@ export default {
     .navbar-nav {
         background-color: #fff !important;
     }
-    .menu {
-        height: 100%;
-        width: 0;
-        position: fixed;
-        z-index: 1;
-        top: 0;
-        left: 0;
-        background-color: #fff;
-        overflow-x: hidden;
-        transition: 0.5s;
-        padding-top: 60px;
-      }
 
-      .menu a {
+
+      /* .menu a {
         padding: 8px 8px 8px 32px;
         text-decoration: none;
         font-size: 25px;
@@ -170,7 +159,7 @@ export default {
         right: 25px;
         font-size: 36px;
         margin-left: 50px;
-      }
+      } */
 
 }
 
